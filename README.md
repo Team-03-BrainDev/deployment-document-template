@@ -28,11 +28,7 @@
     ·
     <a href="https://docs.google.com/spreadsheets/d/19Iv0WUqbZI-6tQeIjLiIz9xfiF8o5nwe-TvQccDtBgg/edit#gid=624910397">Report Bug</a>
     ·
-    <a href="">Request Feature</a>
-    ·
-    <a href="">APP Docs</a>
-    ·
-    <a href="">Dashboard Docs</a>
+    <a href="#getting-started">Dashboard Docs</a>
   </p>
 </p>
 
@@ -47,7 +43,7 @@
       - [Major Frameworks](#major-frameworks)
       - [Development Toolkit:](#development-toolkit)
       - [Accounts made for the braindev.team03@gmail.com under the specified password](#accounts-made-for-the-braindevteam03gmailcom-under-the-specified-password)
-  - [Features ***](#features-)
+  - [Features](#features)
       - [Admin Features](#admin-features)
       - [Therapist Features](#therapist-features)
       - [Patient Features](#patient-features)
@@ -105,7 +101,7 @@ Balanced Brain is an innovative application that serves as a memory aid and moti
 
 <!-- Features list -->
 
-## Features ***
+## Features
 
 #### Admin Features
 - [x] User management – multi-level access system
@@ -337,17 +333,17 @@ List of Sprint two features (and known issues, if any).
 
 ## Contact
 
-**Project Lead:** [Alessandro de Jesus](mailto:deje0014@algonquinlive.com)
+**Project Lead:** [Alessandro de Jesus](https://www.linkedin.com/in/j-alessandro/)
 
-**Design Lead:** [Yoona Kim](mailto:kim00432@algonquinlive.com)
+**Design Lead:** [Yoona Kim](https://www.linkedin.com/in/yoona-k/)
 
-**Developer/Designer:** [Ekta Dudhatra](mailto:dudh0004@algonquinlive.com)
+**Developer/Designer:** [Ekta Dudhatra](https://www.linkedin.com/in/ekta-dudhatra-171732222/)
 
-**Developer/Designer:** [Gyuyoung Lee](mailto:lee00777@algonquinlive.com)
+**Developer/Designer:** [Gyuyoung Lee](https://www.linkedin.com/in/gyuyoung-lee-1a087221b/)
 
-**Developer/Designer:** [Chunyen (Daniel) Huang](mailto:huan0246@algonquinlive.com)
+**Developer/Designer:** [Chunyen (Daniel) Huang](https://www.linkedin.com/in/chunyenhuang/)
 
-**Developer/Designer:** [Jacob Wilson](mailto:wils0936@algonquinlive.com)
+**Developer/Designer:** [Jacob Wilson](https://www.linkedin.com/in/jacob-wilson-a42936163/)
 
 <!-- Acknowledgements -->
 
