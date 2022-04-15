@@ -65,6 +65,10 @@
       - [Brain Dev Mobile App/Dashboard](#brain-dev-mobile-appdashboard)
   - [Usage **](#usage-)
       - [Current Screens in Development for Phase 1:](#current-screens-in-development-for-phase-1)
+          - [Admin](#admin)
+          - [Therapist](#therapist)
+          - [Patient](#patient)
+          - [Profile](#profile)
   - [Roadmap](#roadmap)
       - [Sprint Two Features](#sprint-two-features)
       - [Current Issues ***](#current-issues-)
@@ -307,11 +311,30 @@ npm run-script start
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-[Download the App for Phase 1]() ***
+[Download the App for Phase 1](https://balanced-brain.netlify.app/)
 
 #### Current Screens in Development for Phase 1:
 
-![Development Phase 1 Screenshots]() ***
+###### Admin
+
+![Development Phase 1 - Admin - users - Screenshots](./images/app-screen-admin-users.png) 
+![Development Phase 1 - Admin - activities - Screenshots](./images/app-screen-admin-activities.png) 
+![Development Phase 1 - Admin - reflections - Screenshots](./images/app-screen-admin-reflections.png) 
+![Development Phase 1 - Admin - quotes - Screenshots](./images/app-screen-admin-quotes.png) 
+
+###### Therapist
+
+![Development Phase 1 - Therapist - clients - Screenshots](./images/app-screen-therapist-clients.png) 
+![Development Phase 1 - Therapist - client-details - Screenshots](./images/app-screen-therapist-client-details.png) 
+
+###### Patient
+
+![Development Phase 1 - Patient - records - Screenshots](./images/app-screen-patient-record.png) 
+![Development Phase 1 - Patient - progress - Screenshots](./images/app-screen-patient-progress.png) 
+
+###### Profile
+
+![Development Phase 1 - profile - Screenshots]() 
 
 <!-- ROADMAP -->
 
