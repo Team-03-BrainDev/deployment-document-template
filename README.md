@@ -91,11 +91,10 @@ Balanced Brain is an innovative application that serves as a memory aid and moti
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [Next JS](https://nextjs.org/docs)
 - [Firebase](https://firebase.google.com/)
-
+- [ChartJS](https://www.chartjs.org/)
 #### Development Toolkit:
 
 - [VS Code](https://code.visualstudio.com/) (IDE)
-- [ChartJS](https://www.chartjs.org/)
 - [Mintlify](https://www.mintlify.com/)
 
 #### Accounts made for the braindev.team03@gmail.com under the specified password
@@ -298,13 +297,13 @@ npm install
 - Start the Server
 
 ```sh
-npm run-script build
+npm run build
 ```
 
 - Run the Server
 
 ```sh
-npm run-script start
+npm run start
 ```
 
 ## Usage **
@@ -334,7 +333,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ###### Profile
 
-![Development Phase 1 - profile - Screenshots]() 
+![Development Phase 1 - profile - Screenshots](./images/app-screen-admin-profile.png) 
 
 <!-- ROADMAP -->
 
