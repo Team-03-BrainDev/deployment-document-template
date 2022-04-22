@@ -63,7 +63,7 @@
   - [Getting Started](#getting-started)
     - [Prerequisites](#prerequisites)
       - [Brain Dev Mobile App/Dashboard](#brain-dev-mobile-appdashboard)
-  - [Usage **](#usage-)
+  - [Usage](#usage)
       - [Current Screens in Development for Phase 1:](#current-screens-in-development-for-phase-1)
           - [Admin](#admin)
           - [Therapist](#therapist)
@@ -71,7 +71,7 @@
           - [Profile](#profile)
   - [Roadmap](#roadmap)
       - [Sprint Two Features](#sprint-two-features)
-      - [Current Issues ***](#current-issues-)
+      - [Current Issues](#current-issues)
   - [Contact](#contact)
   - [Acknowledgements](#acknowledgements)
 
@@ -81,7 +81,7 @@
 
 ![RE/ACTION poster](./images/Poster.png)
 
-Balanced Brain is an innovative application that serves as a memory aid and motivational tool to help patients with mental health issues to develop healthy lifestyle changes. RE/ACTION YouTube link. ** CHANGE ** 
+Balanced Brain is an innovative application that serves as a memory aid and motivational tool to help patients with mental health issues to develop healthy lifestyle changes. [RE/ACTION YouTube link](https://www.youtube.com/watch?v=-3LbMqBqL_A&t=5s). 
 
 ### Built With
 
@@ -91,11 +91,10 @@ Balanced Brain is an innovative application that serves as a memory aid and moti
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [Next JS](https://nextjs.org/docs)
 - [Firebase](https://firebase.google.com/)
-
+- [ChartJS](https://www.chartjs.org/)
 #### Development Toolkit:
 
 - [VS Code](https://code.visualstudio.com/) (IDE)
-- [ChartJS](https://www.chartjs.org/)
 - [Mintlify](https://www.mintlify.com/)
 
 #### Accounts made for the braindev.team03@gmail.com under the specified password
@@ -298,18 +297,16 @@ npm install
 - Start the Server
 
 ```sh
-npm run-script build
+npm run build
 ```
 
 - Run the Server
 
 ```sh
-npm run-script start
+npm run start
 ```
 
-## Usage **
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+## Usage 
 
 [Download the App for Phase 1](https://balanced-brain.netlify.app/)
 
@@ -334,7 +331,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ###### Profile
 
-![Development Phase 1 - profile - Screenshots]() 
+![Development Phase 1 - profile - Screenshots](./images/app-screen-admin-profile.png) 
 
 <!-- ROADMAP -->
 
@@ -348,7 +345,7 @@ List of Sprint two features (and known issues, if any).
 - Trial Version - authentication/profile not required. 
 - Export of Data
 
-#### Current Issues ***
+#### Current Issues 
 
 - 
 
